@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+h1 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    background-color: #C4C4C4;
+    margin: 20px;
+    padding: 20px;
+}
+
+h2 {
+   text-align: center;
+   font-family: 'Raleway', sans-serif;
+   background-color: #C4C4C4;
+}
+
+p {
+  text-align: left;
+  font-family: 'Raleway', sans-serif;
+  background-color: #C4C4C4;
+  opacity: 0.75;
+  margin: 30px 20px;
+  padding: 25px;
+}
+
+
+@media only screen and (max-width: 2000px) {
+
+ .pg3-grid-container {
+    display: grid;
+    grid-template-columns: 2fr 1fr 9fr 1fr;
+    grid-template-rows: auto;
+    height: 100vh;
+    width: 100vw;
+ }
+
+ .left1 {
+   background: #79BBB5;
+   grid-column: 1;
+   grid-row: 1;
+ }
+
+ .feature {
+    background: #A885A8;
+    grid-column: 2;
+    grid-row: 1;
+ }
+
+ .r1 {
+    background: #6A5D93;
+    grid-column: 3;
+    grid-row: 1;
+ }
+
+    .v1 {
+        transform: rotate(90deg);
+        margin: 50px 20px 20px 20px;
+        padding: 20px;
+    }
+
+ .r2 {
+    display: flex;
+    background: #0D658A; 
+    grid-column: 4;
+    grid-row: 1;
+ }
+
+    .v2 {
+        align-self: center;
+        transform: rotate(90deg);
+        margin: 20px;
+        padding: 20px;
+    }
+
+}
