@@ -20,6 +20,7 @@ h2 {
 p {
   text-align: left;
   font-family: 'Raleway', sans-serif;
+  font-size: 30px;
   background-color: #C4C4C4;
   opacity: 0.75;
   margin: 30px 20px;
@@ -43,6 +44,11 @@ p {
    grid-row: 1;
  }
 
+ .left1-background {
+   background: #79BBB5;
+   text-decoration: none;
+ }
+
  .feature {
     background: #A885A8;
     grid-column: 2;
@@ -53,6 +59,11 @@ p {
     background: #6A5D93;
     grid-column: 3;
     grid-row: 1;
+ }
+
+ .r1-background {
+    background: #6A5D93;
+    text-decoration: none;
  }
 
     .v1 {
@@ -68,9 +79,14 @@ p {
     grid-row: 1;
  }
 
+ .r2-background {
+    background: #0D658A; 
+    text-decoration: none;
+ }
+
     .v2 {
-        align-self: center;
         transform: rotate(90deg);
+        align-self: center;
         margin: 20px;
         padding: 20px;
     }

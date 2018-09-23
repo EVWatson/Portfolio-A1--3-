@@ -1,0 +1,33 @@
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+h1 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    background-color: #C4C4C4;
+    margin: 20px;
+    padding: 20px;
+}
+
+.background-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 3fr;
+}
+
+.message-item {
+    background: #0D658A;
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.button {
+    background-color: #79BBB5;
+    grid-column: 1;
+    grid-row: 3;
+}
+
+

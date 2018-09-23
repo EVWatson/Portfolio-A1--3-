@@ -15,13 +15,15 @@ h2 {
    text-align: center;
    font-family: 'Raleway', sans-serif;
    background-color: #C4C4C4;
+   margin: 20px;
+   padding: 20px;
 }
 
-p {
+p, li{
   text-align: left;
   font-family: 'Raleway', sans-serif;
-  background-color: #C4C4C4;
-  opacity: 0.75;
+  /* background-color: #C4C4C4; */
+  /* opacity: 0.75; */
   margin: 30px 20px;
   padding: 25px;
 }
@@ -43,32 +45,55 @@ p {
    grid-row: 1;
  }
 
- .feature {
+ .left1-background {
+    background: #79BBB5;
+    text-decoration: none;
+ }
+
+ .v0 {
+    transform: rotate(90deg);
+    margin: 50px 20px 20px 20px;
+    padding: 20px;
+}
+
+ .l2 {
     background: #A885A8;
     grid-column: 2;
     grid-row: 1;
  }
 
- .r1 {
+ .l2-background {
+     background: #A885A8;
+     text-decoration: none;
+ }
+
+ .thefeature {
     background: #6A5D93;
     grid-column: 3;
     grid-row: 1;
+ } 
+
+ .text-background {
+     background: #C4C4C4;
+     margin: 40px 20px;
+     opacity: 0.75;
+     text-align: center;
+     font-family: 'Raleway', sans-serif;
  }
 
-    .v1 {
-        transform: rotate(90deg);
-        margin: 50px 20px 20px 20px;
-        padding: 20px;
-    }
-
- .r2 {
+ .r1 {
     display: flex;
     background: #0D658A; 
     grid-column: 4;
     grid-row: 1;
  }
 
-    .v2 {
+ .r1-background {
+     background: #0D658A;
+     text-decoration: none;
+ }
+
+    .v1 {
         align-self: center;
         transform: rotate(90deg);
         margin: 20px;

@@ -133,11 +133,15 @@ A web server is both a computer that stores the webserver software and the websi
 Web browsers: are a software application. They can locate, retrieve and display internet content. The browser is a client that contacts the Web Server and requests information, and then displays the information it receives back from the Web Server. 
 
 
-
-
 1. Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
 
-The 
+The internet is now not just on our computers, but in our pockets (or handbags) on our phones. This easy accessibility has given us information, email and communication, social media, banking and shopping in one convenient location. It has allowed businesses to run without the expense of a physical premesis, and connectivity for people who live on opposite sides of the world. 
+
+Life has become faster paced, and the nature of employment and jobs have changed just as quickly. In many ways, this online world is our community. Of course, there are also many draw-backs, such as cyber-bullying, and computer viruses, not to mention our dependency on the internet and all the devices it inhabits. 
+
+A quote by Rick Cook summarises the situation nicely:
+
+"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning."
 
 
 Short answer question sources:
@@ -149,3 +153,5 @@ Short answer question sources:
 - [How Stuff Works](https://computer.howstuffworks.com/dns.htm)
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+
+- [Medium](https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509)
