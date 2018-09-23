@@ -130,12 +130,14 @@ Domains and DNS: a domain is the address of the website. The address is a sting 
 
 A web server is both a computer that stores the webserver software and the website component files, and the webserver software itself that controls how web users access hosted files. There are two types of web servers, static and dynamic. Static is a computer with an HTTP server. Hosted files are sent 'as is' to your computer. Dynamic is a static webserver that also has an application server and a database. Hosted files are updated by the application server before they are sent to your computer.
 
-Web browsers: 
+Web browsers: are a software application. They can locate, retrieve and display internet content. The browser is a client that contacts the Web Server and requests information, and then displays the information it receives back from the Web Server. 
 
 
 
 
 1. Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+
+The 
 
 
 Short answer question sources:
