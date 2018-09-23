@@ -1,6 +1,6 @@
 # Portfolio Project - Emily Watson
 
-Link to website:
+Visit my [Website](https://dazzling-darwin-7acc1e.netlify.com/index.html)
 
 Visit my [GitHub](https://github.com/EVWatson/Portfolio-A1--3-)
 
@@ -25,13 +25,17 @@ The website is built primarily using grid. The user can navigate from one page t
 
 ## Screenshots
 
+Landing page:
 
+![landing_page](docs/landing_page.png)
 
+About page:
 
+![about_page](docs/about_page.png)
 
+Skills page:
 
-
-
+![skills_page](docs/skills_page.png)
 
 
 
@@ -50,23 +54,35 @@ Current and prospective employers and peers.
 
 ### *Design Process*
 
-I started with a mood board on pintrest of colour palettes and web designs that i liked. I then looked for common themes in the things I had pinned, and used that as a basis to start my figma design.
+I started with a mood board on pintrest of colour palettes and web designs that i liked. I then looked for common themes in the things I had pinned, and used that as a basis to start my figma design:
 
-I used figma to experiment with the colours I had chosen. Once i was happy with the basic design, I created the design for mobile and desktop versions.
+![pintrest1](docs/pintrest1.png)
+
+![pintrest2](docs/pintrest2.png)
+
+I used figma to experiment with the colours I had chosen. I also used figma and google fonts to decide on the typography (Raleway, sans serif).Once i was happy with the basic design, I created the design for mobile and desktop versions:
+
+![figma_colour](docs/figma_colour.png)
 
 I then wrote the code to create the website. The website followed the design for the most part, although I did have to compromise on some functions, and of course the design evolved over time.
 
 I would have liked the website to be animated, so that when one section was the selected, it would expand, and the others would be 'pushed' out of the way. I discovered this was not possible with HTML and CSS alone, and I would have needed JavaScript to make this happen. I have not yet learnt JavaScript, so at this stage,the animation is not an option. Instead, each page can be navigated to, and the layout still looks the way I imagined for the animation.
 
 
-Wireframes
+Wireframes:
+
+Mobile view:
+
+![figma_mobile](docs/figma_mobile.png)
+
+Desktop view:
+
+![figma_desktop](docs/figma_desktop.png)
 
 
 ## Personal Logo
 
-I created a vector picture as my logo. Although not yet featured on my website, I would like to incorporate it later on. In the meantime, please meet Hector the Vector Cat:
-
-
+I created a vector picture as my logo. Although not yet featured on my website, I would like to incorporate it later on. 
 
 
 ## Usability Considerations
